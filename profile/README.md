@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Seja bem-vindo(a) ao Github do Sinout </h1>
-<p align="center">Do rosto á falas, esse é o nosso dilema, porque quando o rosto fala o mundo entende!</p>
+<p align="center">Do rosto à falas, esse é o nosso dilema, porque quando o rosto fala o mundo entende!</p>
 
 <h3 align="center">Missão</h3>
 <p align="center">Desenvolver e oferecer uma tecnologia assistiva inovadora, baseada no reconhecimento de microexpressões faciais, que permita a pessoas com limitações motoras e/ou de fala se comunicarem de forma clara, rápida e personalizada. Nosso compromisso é preservar a autonomia, a dignidade e a qualidade de vida dos usuários, garantindo que a solução seja acessível, inclusiva e livre de vieses, atendendo igualmente pessoas de todas as etnias, origens e condições socioeconômicas.</p>
