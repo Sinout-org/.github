@@ -214,7 +214,7 @@ Tem dúvidas ou sugestões? Entre em contato conosco!
 
 <p align="center">
   <a href="mailto:suportesinout@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contato@sinout.com-purple?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-suportesinout@gmail.com-purple?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
