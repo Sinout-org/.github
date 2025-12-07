@@ -59,7 +59,7 @@ Nossa solução traduz movimentos faciais em palavras, frases e comandos, permit
 
 ## 🎯 Missão
 
-Desenvolver e oferecer uma **tecnologia assistiva inovadora**, baseada no reconhecimento de microexpressões faciais, que permita a pessoas com limitações motoras e/ou de fala se comunicarem de forma **clara, rápida e personalizada**. 
+Desenvolver e oferecer uma **tecnologia assistiva inovadora**, baseada no reconhecimento de microexpressões faciais, que permita a pessoas com limitações motoras e/ou de fala se comunicarem de forma **clara e personalizada**. 
 
 Nosso compromisso é preservar a **dignidade** e a **qualidade de vida** dos usuários, garantindo que a solução seja:
 - ✅ Acessível e intuitiva
@@ -70,9 +70,9 @@ Nosso compromisso é preservar a **dignidade** e a **qualidade de vida** dos usu
 
 ## 👀 Visão
 
-Ser reconhecido em todo o Brasil como **referência em tecnologia assistiva** baseada em expressões faciais, transformando a comunicação de pessoas com limitações motoras e/ou de fala.
+Auxiliar com **tecnologia assistiva** baseada em expressões faciais, transformando a comunicação de pessoas com limitações motoras e/ou de fala.
 
-Garantir que cada indivíduo, independentemente de sua condição física, origem ou contexto social, tenha acesso a uma **comunicação plena, inclusiva e humanizada**.
+Garantir que cada indivíduo, independentemente de sua condição física, origem ou contexto social, tenha acesso a uma nova maneira de se **comunicar**.
 
 ---
 
@@ -173,7 +173,7 @@ graph LR
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 
 <p align="center">
   <a href="https://skillicons.dev">
